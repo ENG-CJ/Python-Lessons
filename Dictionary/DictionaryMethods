@@ -1,0 +1,6 @@
+
+
+pop() // removes the element with the specific key
+popItem()  // removes the last inserted key
+valeus() // returns a list of all the values in dic
+clear() // removes all element in the dictionary
