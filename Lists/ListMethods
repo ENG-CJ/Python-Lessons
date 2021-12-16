@@ -1,0 +1,10 @@
+
+common Methods
+
+1. Append()       // add element to the list
+2. clear()        // removes all the items in the list
+3. index()         // returs the index of the specific value
+4. pop()           // removes the specific index
+5. remove()         // removes the specifc item in the list
+6. reverse()        // reverse the order list
+7. sort()           // sort the list
