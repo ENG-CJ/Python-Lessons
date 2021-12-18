@@ -1,0 +1,27 @@
+
+Modules
+Modules-ka Waxaa Loogu Tala Galay In loo Isticmaalo projects-ka
+waa weyn faa'idada uu leyahay waxaa waaye in program-kaaga uu kala qeeybiyo
+
+waxaa yaraanaaya cillad bixinta program-kaaga
+waxaase kale oo kordhaya Readable Program-kaaga in si fican loo fahmi karo
+
+Modules-ka aad bay muhiim uyihiin marka lajoogo Developing-ka
+Sababto ah waxay kuu yaraynayaan Shaqada dheer
+
+Modules-ka Files-ka qaar waxaa loo isticmaala in lagu diyaariyo functions oo kaliya
+si function-kaas ugu shaqeeyaan another file
+
+Markii aad  ku isticmaalaysid modules-ka luuqadda python waxaa jira
+package loogu tala galay in lagu qeexo program-kaaga inuu module yahay
+file kastana lagu soo import gareeyn karo ,
+
+--> if __name__=="__main__:
+        // Run The Program
+
+Package-kaas wuxuu program-kaaga u aqoonsanaa in uu yahay module
+waa optional waa iska dhaafi kartaa
+
+Note: Lkn program-yada interface-ka markii aad sameeyneysid aad bay kuu anfacayaan
+
+// lets Code
