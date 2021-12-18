@@ -3,17 +3,9 @@ Download Short Lessons About Python
 
 <kbd>hello</kbd>
 
-<pre style="background: black;">
-<code style="background: black;">
-```
-def myfunc():
-  print('hello')
-```
-</code>
-</pre>
+```python
+def main(name):
+    print('hello'+ name)
+main('EMCJ')
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
 ```
