@@ -3,7 +3,7 @@ Download Short Lessons About Python
 
 <kbd>hello</kbd>
 
-<pre>
+<pre style="color: black;">
 <code>
 def myfunc():
   print('hello')
