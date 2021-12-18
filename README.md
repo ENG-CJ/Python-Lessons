@@ -5,7 +5,9 @@ Download Short Lessons About Python
 
 <pre style="background: black;">
 <code style="background: black;">
+```
 def myfunc():
   print('hello')
+```
 </code>
 </pre>
