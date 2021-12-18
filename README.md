@@ -10,6 +10,7 @@ main('EMCJ')
 
 ```
 
+## JQUERY Snippets
 ```javaScript
 
 $('document').ready(()=>{
