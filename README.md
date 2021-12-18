@@ -25,27 +25,28 @@ class PDF_VIEWER:
 
 ```
 
-## JQUERY Snippets
-```javaScript
+## Interface Snippets
 
-$('document').ready(()=>{
+```python
+class JUSTLOGIN:
+    def __init__(self,root):
+        self.root=root
+        self.root.state('zoomed')
+        self.root.resizable(0,0)
+        self.root.config(bg='#fff')
+        self.root.title('MyJust Login')
+        self.root.iconbitmap(r'C:\Users\PC\PycharmProjects\RoomProjects\GUIs Projects\PROJECT\JUSTEXAM_CENTER\images\JAM.ico')
 
-    // we make two function add and remove 
+        # img
+        self.img_bg=Image.open('images/bg.PNG')
+        self.img=ImageTk.PhotoImage(self.img_bg)
+        Label(self.root,image=self.img,bg='white',bd=0).place(x=1,y=1)
+        
+        
 
-    function add_class(){
-        $('.copied').addClass('bounceIn')
-    };
+```
 
-    function remove_class(){
-        $('.copied').removeClass('bounceIn')
-    };
+```python
 
-    // calling functions
-    $('#copy-btn').click(()=>{
-        $('#text-field').select();
-        document.execCommand('copy')
-        add_class();
-        setTimeout(remove_class,900)
-    })
-})
+
 ```
