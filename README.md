@@ -1,7 +1,7 @@
 # Python-Lessons
 Download Short Lessons About Python 
 
-<kbd><h1>Python</h1> </kbd>
+<h1><kbd>Python</kbd></h1> 
 
 ```python
 def main(name):
